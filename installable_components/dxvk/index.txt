@@ -5,3 +5,4 @@ dxvk-2.2.tzst
 dxvk-2.3.1.tzst
 dxvk-2.5.2.tzst
 dxvk-2.6.1.tzst
+dxvk-3.1.1.tzst
